@@ -1,0 +1,995 @@
+Ticker,Name,Sector,Industry
+A,Agilent Technologies Inc.,Industrial Goods,Precision Products
+AA,Alcoa Corp.,Basic Materials/Resources,Aluminum
+AAL,American Airlines Group Inc.,Transportation/Logistics,Passenger Airlines
+AAP,Advance Auto Parts Inc.,Retail/Wholesale,Specialty Retail
+AAPL,Apple Inc.,Technology,Computers/Consumer Electronics
+ABBV,AbbVie Inc.,Health Care/Life Sciences,Biotechnology
+ABC,AmerisourceBergen Corp.,Retail/Wholesale,Drug Retail
+ABMD,Abiomed Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+ABT,Abbott Laboratories,Health Care/Life Sciences,Pharmaceuticals
+ACC,American Campus Communities Inc.,Real Estate/Construction,Residential REITs
+ACGL,Arch Capital Group Ltd.,Financial Services,Non-Life Insurance
+ACHC,Acadia Healthcare Co. Inc.,Health Care/Life Sciences,Healthcare Provision
+ACM,AECOM,Real Estate/Construction,Construction
+ACN,Accenture PLC Cl A,Business/Consumer Services,Diversified Business Services
+ADBE,Adobe Inc.,Technology,Software
+ADI,Analog Devices Inc.,Technology,Semiconductors
+ADM,Archer Daniels Midland Co.,Consumer Goods,Food Products
+ADP,Automatic Data Processing Inc.,Business/Consumer Services,Diversified Business Services
+ADPT,Adaptive Biotechnologies Corp.,Health Care/Life Sciences,Biotechnology
+ADS,Alliance Data Systems Corp.,Business/Consumer Services,Advertising/Marketing/Public Relations
+ADSK,Autodesk Inc.,Technology,Software
+ADT,ADT Inc.,Business/Consumer Services,General Services
+AEE,Ameren Corp.,Companies on the Energy Service,Electric Utilities
+AEP,American Electric Power Co. Inc.,Companies on the Energy Service,Electric Utilities
+AES,AES Corp.,Companies on the Energy Service,Electric Utilities
+AFG,American Financial Group Inc.,Financial Services,Life Insurance
+AFL,AFLAC Inc.,Financial Services,Life Insurance
+AGCO,AGCO Corp.,Industrial Goods,Mobile Machinery
+AGIO,Agios Pharmaceuticals Inc.,Health Care/Life Sciences,Biotechnology
+AGN,Allergan PLC,Health Care/Life Sciences,Pharmaceuticals
+AGNC,AGNC Investment Corp.,Real Estate/Construction,Mortgage REITs
+AGO,Assured Guaranty Ltd.,Financial Services,Non-Life Insurance
+AGR,Avangrid Inc.,Companies on the Energy Service,Electric Utilities
+AIG,American International Group Inc.,Financial Services,Full-Line Insurance
+AIV,Apartment Investment & Management Co.,Real Estate/Construction,Residential REITs
+AIZ,Assurant Inc.,Financial Services,Non-Life Insurance
+AJG,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokering
+AKAM,Akamai Technologies Inc.,Technology,Internet/Online
+AL,Air Lease Corp.,Business/Consumer Services,General Services
+ALB,Albemarle Corp.,Basic Materials/Resources,Chemicals
+ALGN,Align Technology Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+ALK,Alaska Air Group Inc.,Transportation/Logistics,Passenger Airlines
+ALKS,Alkermes PLC,Health Care/Life Sciences,Biotechnology
+ALL,Allstate Corp.,Financial Services,Non-Life Insurance
+ALLE,Allegion PLC,Business/Consumer Services,General Services
+ALLY,Ally Financial Inc.,Financial Services,Banking
+ALNY,Alnylam Pharmaceuticals Inc.,Health Care/Life Sciences,Biotechnology
+ALSN,Allison Transmission Holdings Inc.,Automotive,Motor Vehicle Parts
+ALXN,Alexion Pharmaceuticals Inc.,Health Care/Life Sciences,Biotechnology
+AM,Antero Midstream Corp.,Companies on the Energy Service,Pipeline Transportation
+AMAT,Applied Materials Inc.,Technology,Semiconductors
+AMCX,AMC Networks Inc. Cl A,Media/Entertainment,Broadcasting
+AMD,Advanced Micro Devices Inc.,Technology,Semiconductors
+AME,Ametek Inc.,Industrial Goods,Precision Products
+AMG,Affiliated Managers Group Inc.,Financial Services,Investment Advisors
+AMGN,Amgen Inc.,Health Care/Life Sciences,Biotechnology
+AMH,American Homes 4 Rent Cl A,Real Estate/Construction,Residential REITs
+AMP,Ameriprise Financial Inc.,Financial Services,Investment Advisors
+AMT,American Tower REIT,Real Estate/Construction,Specialty REITs
+AMTD,TD Ameritrade Holding Corp.,Financial Services,Securities
+AMZN,Amazon.com Inc.,Retail/Wholesale,Mixed Retailing
+AN,AutoNation Inc.,Retail/Wholesale,Specialty Retail
+ANAT,American National Insurance Co.,Financial Services,Full-Line Insurance
+ANET,Arista Networks Inc.,Technology,Internet/Online
+ANSS,Ansys Inc.,Technology,Software
+ANTM,Anthem Inc.,Financial Services,Life Insurance
+AON,Aon PLC,Financial Services,Finance Companies
+AOS,A.O. Smith Corp.,Real Estate/Construction,Building Materials/Products
+APA,Apache Corp.,Companies on the Energy Service,Oil Extraction
+APD,Air Products & Chemicals Inc.,Basic Materials/Resources,Chemicals
+APH,Amphenol Corp. Cl A,Industrial Goods,Industrial Electronics
+APLE,Apple Hospitality REIT Inc.,Real Estate/Construction,Hotel/Lodging REITs
+APTV,Aptiv PLC,Automotive,Motor Vehicle Parts
+APY,Apergy Corp.,Companies on the Energy Service,Oil & Gas Products/Services
+AR,Antero Resources Corp.,Companies on the Energy Service,Oil Extraction
+ARD,Ardagh Group S.A. Cl A,N/A,N/A
+ARE,Alexandria Real Estate Equities Inc.,Real Estate/Construction,Industrial/Office REITs
+ARMK,Aramark,Leisure/Arts/Hospitality,Restaurants
+ARNC,Arconic Inc.,Industrial Goods,Industrial Products
+ARW,Arrow Electronics Inc.,Industrial Goods,Industrial Electronics
+ASB,Associated Banc-Corp.,Financial Services,Banking
+ASH,Ashland Global Holdings Inc.,Basic Materials/Resources,Chemicals
+ATH,Athene Holding Ltd.,Financial Services,Life Insurance
+ATO,Atmos Energy Corp.,Companies on the Energy Service,Gas Utilities
+ATR,Aptargroup Inc.,Industrial Goods,Containers/Packaging
+ATUS,Altice USA Inc. Cl A,Media/Entertainment,Broadcasting
+ATVI,Activision Blizzard Inc.,Consumer Goods,Toys & Games
+AVB,Avalonbay Communities Inc.,Real Estate/Construction,Residential REITs
+AVGO,Broadcom Inc.,Technology,Semiconductors
+AVLR,Avalara Inc.,Technology,Internet/Online
+AVT,Avnet Inc.,Industrial Goods,Industrial Electronics
+AVTR,Avantor Inc.,Basic Materials/Resources,Chemicals
+AVY,Avery Dennison Corp.,Basic Materials/Resources,Chemicals
+AWI,Armstrong World Industries Inc.,Real Estate/Construction,Building Materials/Products
+AWK,American Water Works Co.,Companies on the Energy Service,Water Utilities
+AXP,American Express Co.,Financial Services,Consumer Finance
+AXS,AXIS Capital Holdings Ltd.,Financial Services,Non-Life Insurance
+AXTA,Axalta Coating Systems Ltd.,Real Estate/Construction,Building Materials/Products
+AYI,Acuity Brands Inc.,Industrial Goods,Industrial Electronics
+AYX,Alteryx Inc. Cl A,Technology,Software
+AZO,AutoZone Inc.,Retail/Wholesale,Specialty Retail
+AZPN,Aspen Technology Inc.,Technology,Software
+BA,Boeing Co.,Industrial Goods,Aerospace Products/Parts
+BAC,Bank of America Corp.,Financial Services,Major International Banks
+BAH,Booz Allen Hamilton Holding Corp.,Business/Consumer Services,Diversified Business Services
+BAX,Baxter International Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+BBY,Best Buy Co. Inc.,Retail/Wholesale,Home Goods Retail
+BC,Brunswick Corp.,Consumer Goods,Sports Goods
+BDN,Brandywine Realty Trust,Real Estate/Construction,Industrial/Office REITs
+BDX,Becton Dickinson & Co.,Health Care/Life Sciences,Medical Equipment/Supplies
+BEN,Franklin Resources Inc.,Financial Services,Investment Advisors
+BERY,Berry Global Group Inc.,Industrial Goods,Containers/Packaging
+BF.A,Brown-Forman Corp. Cl A,Consumer Goods,Alcoholic Beverages/Drinks
+BFAM,Bright Horizons Family Solutions Inc.,Business/Consumer Services,Consumer Services
+BF.B,Brown-Forman Corp. Cl B,Consumer Goods,Alcoholic Beverages/Drinks
+BG,Bunge Ltd.,Agriculture,Farming
+BGCP,BGC Partners Inc. Cl A,Financial Services,Securities
+BHF,Brighthouse Financial Inc.,Financial Services,Life Insurance
+BIIB,Biogen Inc.,Health Care/Life Sciences,Biotechnology
+BIO,Bio-Rad Laboratories Inc. Cl A,Health Care/Life Sciences,Medical Equipment/Supplies
+BK,Bank of New York Mellon Corp.,Financial Services,Investment Advisors
+BKI,Black Knight Inc.,Technology,Software
+BKNG,Booking Holdings Inc.,Leisure/Arts/Hospitality,Tourism
+BKR,Baker Hughes Co.,Companies on the Energy Service,Oil & Gas Products/Services
+BKU,BankUnited Inc.,Financial Services,Banking
+BLK,BlackRock Inc.,Financial Services,Investment Advisors
+BLL,Ball Corp.,Industrial Goods,Containers/Packaging
+BLUE,bluebird bio Inc.,Health Care/Life Sciences,Biotechnology
+BMRN,BioMarin Pharmaceutical Inc.,Health Care/Life Sciences,Biotechnology
+BMY,Bristol-Myers Squibb Co.,Health Care/Life Sciences,Pharmaceuticals
+BOH,Bank of Hawaii Corp.,Financial Services,Banking
+BOKF,BOK Financial Corp.,Financial Services,Banking
+BPOP,Popular Inc.,Financial Services,Banking
+BPR,Brookfield Property REIT Inc.,N/A,N/A
+BR,Broadridge Financial Solutions Inc.,Business/Consumer Services,Computer Services
+BRK.B,Berkshire Hathaway Inc. Cl B,Business/Consumer Services,Diversified Holding Companies
+BRKR,Bruker Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+BRO,Brown & Brown Inc.,Financial Services,Insurance Brokering
+BRX,Brixmor Property Group Inc.,Real Estate/Construction,Retail REITs
+BSX,Boston Scientific Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+BURL,Burlington Stores Inc.,Retail/Wholesale,Clothing Retail
+BWA,BorgWarner Inc.,Automotive,Motor Vehicle Parts
+BWXT,BWX Technologies Inc.,Industrial Goods,Industrial Machinery
+BXP,Boston Properties Inc.,Real Estate/Construction,Industrial/Office REITs
+BYND,Beyond Meat Inc.,Consumer Goods,Food Products
+C,Citigroup Inc.,Financial Services,Major International Banks
+CABO,Cable One Inc.,Media/Entertainment,Broadcasting
+CACC,Credit Acceptance Corp.,Financial Services,Consumer Finance
+CACI,CACI International Inc. Cl A,Business/Consumer Services,Computer Services
+CAG,Conagra Brands Inc.,Consumer Goods,Food Products
+CAH,Cardinal Health Inc.,Retail/Wholesale,Drug Retail
+CASY,Casey's General Stores Inc.,Retail/Wholesale,Mixed Retailing
+CAT,Caterpillar Inc.,Industrial Goods,Mobile Machinery
+CB,Chubb Ltd.,Financial Services,Full-Line Insurance
+CBOE,Cboe Global Markets Inc.,Financial Services,Securities
+CBRE,CBRE Group Inc. Cl A,Real Estate/Construction,Real Estate Developers
+CBSH,Commerce Bancshares Inc.,Financial Services,Banking
+CBT,Cabot Corp.,Basic Materials/Resources,Chemicals
+CC,Chemours Co.,Basic Materials/Resources,Chemicals
+CCI,Crown Castle International Corp.,Real Estate/Construction,Specialty REITs
+CCK,Crown Holdings Inc.,Industrial Goods,Containers/Packaging
+CCL,Carnival Corp.,Leisure/Arts/Hospitality,Tourism
+CDAY,Ceridian HCM Holding Inc.,Technology,Software
+CDEV,Centennial Resource Development Inc.,Companies on the Energy Service,Oil Extraction
+CDK,CDK Global Inc.,Business/Consumer Services,Advertising/Marketing/Public Relations
+CDNS,Cadence Design Systems Inc.,Technology,Software
+CDW,CDW Corp.,Business/Consumer Services,Computer Services
+CE,Celanese Corp.,Basic Materials/Resources,Chemicals
+CERN,Cerner Corp.,Technology,Software
+CF,CF Industries Holdings Inc.,Basic Materials/Resources,Chemicals
+CFG,Citizens Financial Group Inc.,Financial Services,Banking
+CFR,Cullen/Frost Bankers Inc.,Financial Services,Banking
+CFX,Colfax Corp.,Industrial Goods,Industrial Machinery
+CGNX,Cognex Corp.,Industrial Goods,Precision Products
+CHD,Church & Dwight Co.,Consumer Goods,Nondurable Household Products
+CHE,Chemed Corp.,Health Care/Life Sciences,Healthcare Provision
+CHH,Choice Hotels International Inc.,Leisure/Arts/Hospitality,Hotels
+CHK,Chesapeake Energy Corp.,Companies on the Energy Service,Oil Extraction
+CHNG,Change Healthcare Inc.,N/A,N/A
+CHRW,C.H. Robinson Worldwide Inc.,Transportation/Logistics,Transportation Services
+CHTR,Charter Communications Inc. Cl A,Media/Entertainment,Broadcasting
+CI,Cigna Corp.,Financial Services,Life Insurance
+CIEN,Ciena Corp.,Technology,Networking
+CIM,Chimera Investment Corp.,Real Estate/Construction,Mortgage REITs
+CINF,Cincinnati Financial Corp.,Financial Services,Non-Life Insurance
+CIT,CIT Group Inc.,Financial Services,Banking
+CL,Colgate-Palmolive Co.,Consumer Goods,Personal Care Products/Appliances
+CLGX,CoreLogic Inc.,Technology,Software
+CLH,Clean Harbors Inc.,Business/Consumer Services,Environment/Waste Management
+CLNY,Colony Capital Inc.,Financial Services,Investment Advisors
+CLR,Continental Resources Inc.,Companies on the Energy Service,Oil Extraction
+CLX,Clorox Co.,Consumer Goods,Nondurable Household Products
+CMA,Comerica Inc.,Financial Services,Banking
+CMCSA,Comcast Corp. Cl A,Media/Entertainment,Broadcasting
+CMD,Cantel Medical Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+CME,CME Group Inc. Cl A,Financial Services,Securities
+CMG,Chipotle Mexican Grill Inc.,Leisure/Arts/Hospitality,Restaurants
+CMI,Cummins Inc.,Automotive,Motor Vehicle Parts
+CMS,CMS Energy Corp.,Companies on the Energy Service,Electric Utilities
+CNA,CNA Financial Corp.,Financial Services,Full-Line Insurance
+CNC,Centene Corp.,Health Care/Life Sciences,Healthcare Provision
+CNK,Cinemark Holdings Inc.,Leisure/Arts/Hospitality,Recreational Services
+CNP,CenterPoint Energy Inc.,Companies on the Energy Service,Multiutilities
+COF,Capital One Financial Corp.,Financial Services,Consumer Finance
+COG,Cabot Oil & Gas Corp.,Companies on the Energy Service,Oil Extraction
+COHR,Coherent Inc.,Industrial Goods,Precision Products
+COLD,Americold Realty Trust,Real Estate/Construction,Specialty REITs
+COLM,Columbia Sportswear Co.,Consumer Goods,Clothing
+COMM,CommScope Holding Co. Inc.,Technology,Networking
+CONE,CyrusOne Inc.,Business/Consumer Services,Computer Services
+COO,Cooper Cos.,Health Care/Life Sciences,Medical Equipment/Supplies
+COP,ConocoPhillips,Companies on the Energy Service,Major Oil & Gas
+COR,CoreSite Realty Corp.,Real Estate/Construction,Industrial/Office REITs
+COST,Costco Wholesale Corp.,Retail/Wholesale,Mixed Retailing
+COTY,Coty Inc. Cl A,Consumer Goods,Personal Care Products/Appliances
+COUP,Coupa Software Inc.,Technology,Software
+CPA,Copa Holdings S.A. Cl A,Transportation/Logistics,Passenger Airlines
+CPB,Campbell Soup Co.,Consumer Goods,Food Products
+CPRI,Capri Holdings Ltd.,Consumer Goods,Clothing
+CPRT,Copart Inc.,Retail/Wholesale,Mixed Retailing
+CPT,Camden Property Trust,Real Estate/Construction,Residential REITs
+CR,Crane Co.,Industrial Goods,Precision Products
+CREE,Cree Inc.,Technology,Semiconductors
+CRI,Carter's Inc.,Consumer Goods,Clothing
+CRL,Charles River Laboratories International Inc.,Health Care/Life Sciences,Biotechnology
+CRM,Salesforce.com Inc.,Technology,Software
+CRNC,Cerence Inc.,Technology,Emerging Technologies
+CSCO,Cisco Systems Inc.,Technology,Networking
+CSGP,CoStar Group Inc.,Business/Consumer Services,Diversified Business Services
+CSL,Carlisle Cos.,Real Estate/Construction,Building Materials/Products
+CSX,CSX Corp.,Transportation/Logistics,Railroads
+CTAS,Cintas Corp.,Business/Consumer Services,General Services
+CTL,CenturyLink Inc.,Telecommunication Services,Wired Telecommunications Services
+CTLT,Catalent Inc.,Health Care/Life Sciences,Pharmaceuticals
+CTSH,Cognizant Technology Solutions Corp.,Technology,Software
+CTVA,Corteva Inc.,Basic Materials/Resources,Chemicals
+CTXS,Citrix Systems Inc.,Technology,Software
+CUBE,CubeSmart,Real Estate/Construction,Specialty REITs
+CUZ,Cousins Properties Inc.,Real Estate/Construction,Industrial/Office REITs
+CVET,Covetrus Inc.,Business/Consumer Services,Diversified Business Services
+CVNA,Carvana Co. Cl A,Retail/Wholesale,Specialty Retail
+CVS,CVS Health Corp.,Retail/Wholesale,Drug Retail
+CVX,Chevron Corp.,Companies on the Energy Service,Major Oil & Gas
+CW,Curtiss-Wright Corp.,Industrial Goods,Industrial Products
+CXO,Concho Resources Inc.,Companies on the Energy Service,Oil Extraction
+CXP,Columbia Property Trust Inc.,Real Estate/Construction,Industrial/Office REITs
+CY,Cypress Semiconductor Corp.,Technology,Semiconductors
+CZR,Caesars Entertainment Corp.,Leisure/Arts/Hospitality,Gambling Industries
+D,Dominion Energy Inc.,Companies on the Energy Service,Electric Utilities
+DAL,Delta Air Lines Inc.,Transportation/Logistics,Passenger Airlines
+DBX,Dropbox Inc.,Technology,Internet/Online
+DCI,Donaldson Co. Inc.,Industrial Goods,Industrial Machinery
+DD,DuPont de Nemours Inc.,Basic Materials/Resources,Chemicals
+DE,Deere & Co.,Industrial Goods,Mobile Machinery
+DEI,Douglas Emmett Inc.,Real Estate/Construction,Industrial/Office REITs
+DELL,Dell Technologies Inc. Cl C,Technology,Software
+DFS,Discover Financial Services,Financial Services,Consumer Finance
+DG,Dollar General Corp.,Retail/Wholesale,Mixed Retailing
+DGX,Quest Diagnostics Inc.,Health Care/Life Sciences,Healthcare Provision
+DHI,D.R. Horton Inc.,Real Estate/Construction,Residential Building Construction
+DHR,Danaher Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+DIS,Walt Disney Co.,Media/Entertainment,Broadcasting
+DISCA,Discovery Inc. Series A,Media/Entertainment,Broadcasting
+DISCK,Discovery Inc. Series C,Media/Entertainment,Broadcasting
+DISH,DISH Network Corp. Cl A,Media/Entertainment,Broadcasting
+DKS,Dick's Sporting Goods Inc.,Retail/Wholesale,Specialty Retail
+DLB,Dolby Laboratories Inc. Cl A,Media/Entertainment,Motion Picture/Sound Recording
+DLR,Digital Realty Trust Inc.,Real Estate/Construction,Industrial/Office REITs
+DLTR,Dollar Tree Inc.,Retail/Wholesale,Mixed Retailing
+DNKN,Dunkin' Brands Group Inc.,Leisure/Arts/Hospitality,Restaurants
+DOCU,DocuSign Inc.,Technology,Internet/Online
+DOV,Dover Corp.,Industrial Goods,Industrial Machinery
+DOW,Dow Inc.,Basic Materials/Resources,Chemicals
+DOX,Amdocs Ltd.,Technology,Software
+DPZ,Domino's Pizza Inc.,Leisure/Arts/Hospitality,Restaurants
+DRE,Duke Realty Corp.,Real Estate/Construction,Industrial/Office REITs
+DRI,Darden Restaurants Inc.,Leisure/Arts/Hospitality,Restaurants
+DT,Dynatrace Inc.,Technology,Emerging Technologies
+DTE,DTE Energy Co.,Companies on the Energy Service,Electric Utilities
+DUK,Duke Energy Corp.,Companies on the Energy Service,Multiutilities
+DVA,DaVita Inc.,Health Care/Life Sciences,Healthcare Provision
+DVN,Devon Energy Corp.,Companies on the Energy Service,Oil Extraction
+DXC,DXC Technology Co.,Business/Consumer Services,Computer Services
+DXCM,DexCom Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+EA,Electronic Arts Inc.,Consumer Goods,Toys & Games
+EAF,GrafTech International Ltd.,Industrial Goods,Industrial Electronics
+EBAY,eBay Inc.,Retail/Wholesale,Mixed Retailing
+ECL,Ecolab Inc.,Business/Consumer Services,Environment/Waste Management
+ED,Consolidated Edison Inc.,Companies on the Energy Service,Multiutilities
+EEFT,Euronet Worldwide Inc.,Financial Services,Consumer Finance
+EFX,Equifax Inc.,Financial Services,Finance Companies
+EHC,Encompass Health Corp.,Health Care/Life Sciences,Healthcare Provision
+EIX,Edison International,Companies on the Energy Service,Electric Utilities
+EL,Estee Lauder Cos. Cl A,Consumer Goods,Personal Care Products/Appliances
+ELAN,Elanco Animal Health Inc.,Consumer Goods,Food Products
+ELS,Equity Lifestyle Properties Inc.,Real Estate/Construction,Residential REITs
+EMN,Eastman Chemical Co.,Basic Materials/Resources,Chemicals
+EMR,Emerson Electric Co.,Industrial Goods,Precision Products
+ENR,Energizer Holdings Inc.,Industrial Goods,Industrial Electronics
+ENTG,Entegris Inc.,Technology,Semiconductors
+EOG,EOG Resources Inc.,Companies on the Energy Service,Oil Extraction
+EPAM,EPAM Systems Inc.,Technology,Software
+EPR,EPR Properties,Real Estate/Construction,Specialty REITs
+EQC,Equity Commonwealth,Real Estate/Construction,Industrial/Office REITs
+EQH,Equitable Holdings Inc.,Financial Services,Life Insurance
+EQIX,Equinix Inc.,Technology,Internet/Online
+EQR,Equity Residential,Real Estate/Construction,Residential REITs
+EQT,EQT Corp.,Companies on the Energy Service,Oil Extraction
+ERIE,Erie Indemnity Co. Cl A,Financial Services,Non-Life Insurance
+ES,Eversource Energy,Companies on the Energy Service,Electric Utilities
+ESI,Element Solutions Inc.,Basic Materials/Resources,Chemicals
+ESRT,Empire State Realty Trust Inc. Cl A,Real Estate/Construction,Industrial/Office REITs
+ESS,Essex Property Trust Inc.,Real Estate/Construction,Residential REITs
+ESTC,Elastic N.V.,Technology,Software
+ETFC,E*TRADE Financial Corp.,Financial Services,Securities
+ETN,Eaton Corp. PLC,Industrial Goods,Industrial Electronics
+ETR,Entergy Corp.,Companies on the Energy Service,Electric Utilities
+ETRN,Equitrans Midstream Corp.,Companies on the Energy Service,Pipeline Transportation
+ETSY,Etsy Inc.,Retail/Wholesale,Mixed Retailing
+EV,Eaton Vance Corp.,Financial Services,Investment Advisors
+EVR,Evercore Inc. Cl A,Financial Services,Investment Advisors
+EVRG,Evergy Inc.,N/A,N/A
+EW,Edwards Lifesciences Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+EWBC,East West Bancorp Inc.,Financial Services,Banking
+EXAS,Exact Sciences Corp.,Health Care/Life Sciences,Biotechnology
+EXC,Exelon Corp.,Companies on the Energy Service,Multiutilities
+EXEL,Exelixis Inc.,Health Care/Life Sciences,Biotechnology
+EXP,Eagle Materials Inc.,Real Estate/Construction,Building Materials/Products
+EXPD,Expeditors International of Washington Inc.,Transportation/Logistics,Transportation Services
+EXPE,Expedia Group Inc.,Leisure/Arts/Hospitality,Tourism
+EXR,Extra Space Storage Inc.,Real Estate/Construction,Specialty REITs
+F,Ford Motor Co.,Automotive,Automobiles
+FAF,First American Financial Corp.,Financial Services,Non-Life Insurance
+FANG,Diamondback Energy Inc.,Companies on the Energy Service,Oil Extraction
+FAST,Fastenal Co.,Retail/Wholesale,Wholesalers
+FB,Facebook Inc. Cl A,Technology,Internet/Online
+FBHS,Fortune Brands Home & Security Inc.,Real Estate/Construction,Building Materials/Products
+FCNCA,First Citizens Bancshares Inc. Cl A,Financial Services,Banking
+FCX,Freeport-McMoRan Inc.,Basic Materials/Resources,Non-Ferrous Metals
+FDS,FactSet Research Systems Inc.,Media/Entertainment,Publishing
+FDX,FedEx Corp.,Transportation/Logistics,Air Freight
+FE,FirstEnergy Corp.,Companies on the Energy Service,Electric Utilities
+FEYE,FireEye Inc.,Technology,Software
+FFIV,F5 Networks Inc.,Technology,Software
+FHB,First Hawaiian Inc.,Financial Services,Banking
+FHN,First Horizon National Corp.,Financial Services,Banking
+FICO,Fair Isaac Corp.,Technology,Software
+FIS,Fidelity National Information Services Inc.,Business/Consumer Services,Computer Services
+FISV,Fiserv Inc.,Financial Services,Consumer Finance
+FITB,Fifth Third Bancorp,Financial Services,Banking
+FIVE,Five Below Inc.,Retail/Wholesale,Specialty Retail
+FL,Foot Locker Inc.,Retail/Wholesale,Clothing Retail
+FLIR,Flir Systems Inc.,Industrial Goods,Precision Products
+FLO,Flowers Foods Inc.,Consumer Goods,Food Products
+FLR,Fluor Corp.,Real Estate/Construction,Construction
+FLS,Flowserve Corp.,Industrial Goods,Industrial Machinery
+FLT,FleetCor Technologies Inc.,Financial Services,Consumer Finance
+FMC,FMC Corp.,Basic Materials/Resources,Chemicals
+FNB,F.N.B. Corp.,Financial Services,Banking
+FND,Floor & Decor Holdings Inc. Cl A,N/A,N/A
+FNF,Fidelity National Financial Inc.,Financial Services,Non-Life Insurance
+FOX,Fox Corp. Cl B,Media/Entertainment,Broadcasting
+FOXA,Fox Corp. Cl A,Media/Entertainment,Broadcasting
+FRC,First Republic Bank,Financial Services,Investment Advisors
+FRT,Federal Realty Investment Trust,Real Estate/Construction,Retail REITs
+FSLR,First Solar Inc.,Industrial Goods,Industrial Electronics
+FTDR,frontdoor inc.,Financial Services,Non-Life Insurance
+FTNT,Fortinet Inc.,Technology,Software
+FTV,Fortive Corp.,Industrial Goods,Precision Products
+FWONA,Liberty Media Corp. Series A Liberty Formula One,Media/Entertainment,Broadcasting
+FWONK,Liberty Media Corp. Series C Liberty Formula One,Media/Entertainment,Broadcasting
+G,Genpact Ltd.,Technology,Emerging Technologies
+GD,General Dynamics Corp.,Industrial Goods,Defense Equipment/Products
+GDDY,GoDaddy Inc. Cl A,Technology,Internet/Online
+GDI,Gardner Denver Holdings Inc.,Industrial Goods,Industrial Machinery
+GE,General Electric Co.,Business/Consumer Services,Diversified Holding Companies
+GGG,Graco Inc.,Industrial Goods,Industrial Machinery
+GH,Guardant Health Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+GHC,Graham Holdings Co.,Business/Consumer Services,Consumer Services
+GILD,Gilead Sciences Inc.,Health Care/Life Sciences,Biotechnology
+GIS,General Mills Inc.,Consumer Goods,Food Products
+GL,Globe Life Inc.,Financial Services,Life Insurance
+GLIBA,GCI Liberty Inc. Cl A,Telecommunication Services,Wireless Telecommunications Services
+GLPI,Gaming & Leisure Properties Inc.,Real Estate/Construction,Specialty REITs
+GLW,Corning Inc.,Industrial Goods,Industrial Products
+GM,General Motors Co.,Automotive,Automobiles
+GNTX,Gentex Corp.,Automotive,Motor Vehicle Parts
+GO,Grocery Outlet Holding Corp.,N/A,N/A
+GOOG,Alphabet Inc. Cl C,Technology,Internet/Online
+GOOGL,Alphabet Inc. Cl A,Technology,Internet/Online
+GPC,Genuine Parts Co.,Automotive,Motor Vehicle Parts
+GPK,Graphic Packaging Holding Co.,Industrial Goods,Containers/Packaging
+GPN,Global Payments Inc.,Financial Services,Consumer Finance
+GPS,Gap Inc.,Retail/Wholesale,Clothing Retail
+GRA,W.R. Grace & Co.,Basic Materials/Resources,Chemicals
+GRMN,Garmin Ltd.,Technology,Networking
+GRUB,GrubHub Inc.,Leisure/Arts/Hospitality,Restaurants
+GS,Goldman Sachs Group Inc.,Financial Services,Securities
+GT,Goodyear Tire & Rubber Co.,Automotive,Tires
+GTES,Gates Industrial Corp. PLC,Industrial Goods,Industrial Products
+GWRE,Guidewire Software Inc.,Technology,Software
+GWW,W.W. Grainger Inc.,Retail/Wholesale,Wholesalers
+H,Hyatt Hotels Corp.,Leisure/Arts/Hospitality,Hotels
+HAIN,Hain Celestial Group Inc.,Consumer Goods,Food Products
+HAL,Halliburton Co.,Companies on the Energy Service,Oil & Gas Products/Services
+HAS,Hasbro Inc.,Consumer Goods,Toys & Games
+HBAN,Huntington Bancshares Inc.,Financial Services,Banking
+HBI,Hanesbrands Inc.,Consumer Goods,Clothing
+HCA,HCA Healthcare Inc.,Health Care/Life Sciences,Healthcare Provision
+HD,Home Depot Inc.,Retail/Wholesale,Home Goods Retail
+HDS,HD Supply Holdings Inc.,Retail/Wholesale,Wholesalers
+HE,Hawaiian Electric Industries Inc.,Companies on the Energy Service,Electric Utilities
+HEI,Heico Corp.,Industrial Goods,Aerospace Products/Parts
+HEI.A,Heico Corp. Cl A,Industrial Goods,Aerospace Products/Parts
+HES,Hess Corp.,Companies on the Energy Service,Major Oil & Gas
+HFC,HollyFrontier Corp.,Companies on the Energy Service,Oil & Gas Products/Services
+HGV,Hilton Grand Vacations Inc.,Leisure/Arts/Hospitality,Hotels
+HHC,Howard Hughes Corp.,Real Estate/Construction,Real Estate Developers
+HIG,Hartford Financial Services Group Inc.,Financial Services,Non-Life Insurance
+HII,Huntington Ingalls Industries Inc.,Industrial Goods,Defense Equipment/Products
+HIW,Highwoods Properties Inc.,Real Estate/Construction,Industrial/Office REITs
+HLF,Herbalife Nutrition Ltd.,Health Care/Life Sciences,Pharmaceuticals
+HLT,Hilton Worldwide Holdings Inc.,Leisure/Arts/Hospitality,Hotels
+HOG,Harley-Davidson Inc.,Automotive,Automobiles
+HOLX,Hologic Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+HON,Honeywell International Inc.,Business/Consumer Services,Diversified Holding Companies
+HP,Helmerich & Payne Inc.,Companies on the Energy Service,Oil & Gas Products/Services
+HPE,Hewlett Packard Enterprise Co.,Technology,Computers/Consumer Electronics
+HPP,Hudson Pacific Properties Inc.,Real Estate/Construction,Industrial/Office REITs
+HPQ,HP Inc.,Technology,Computers/Consumer Electronics
+HRB,H&R Block Inc.,Business/Consumer Services,Accounting
+HRC,Hill-Rom Holdings Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+HRL,Hormel Foods Corp.,Consumer Goods,Food Products
+HSIC,Henry Schein Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+HST,Host Hotels & Resorts Inc.,Real Estate/Construction,Hotel/Lodging REITs
+HSY,Hershey Co.,Consumer Goods,Food Products
+HTA,Healthcare Trust of America Inc.,Real Estate/Construction,Healthcare REITs
+HUBB,Hubbell Inc.,Industrial Goods,Industrial Electronics
+HUBS,HubSpot Inc.,Technology,Software
+HUM,Humana Inc.,Financial Services,Life Insurance
+HUN,Huntsman Corp.,Basic Materials/Resources,Chemicals
+HXL,Hexcel Corp.,Industrial Goods,Aerospace Products/Parts
+HZNP,Horizon Therapeutics PLC,Health Care/Life Sciences,Pharmaceuticals
+IAA,IAA Inc.,Retail/Wholesale,Specialty Retail
+IAC,IAC/InterActiveCorp.,Technology,Internet/Online
+IART,Integra LifeSciences Holdings Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+IBKR,Interactive Brokers Group Inc.,Financial Services,Securities
+IBM,International Business Machines Corp.,Business/Consumer Services,Computer Services
+ICE,Intercontinental Exchange Inc.,Financial Services,Securities
+ICUI,ICU Medical Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+IDA,IDACORP Inc.,Companies on the Energy Service,Electric Utilities
+IDXX,IDEXX Laboratories Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+IEX,IDEX Corp.,Industrial Goods,Industrial Machinery
+IFF,International Flavors & Fragrances Inc.,Basic Materials/Resources,Chemicals
+IGT,International Game Technology PLC,Leisure/Arts/Hospitality,Gambling Industries
+ILMN,Illumina Inc.,Health Care/Life Sciences,Biotechnology
+INCY,Incyte Corp.,Health Care/Life Sciences,Biotechnology
+INFO,IHS Markit Ltd.,Media/Entertainment,Publishing
+INGR,Ingredion Inc.,Consumer Goods,Food Products
+INTC,Intel Corp.,Technology,Semiconductors
+INTU,Intuit Inc.,Technology,Software
+INVH,Invitation Homes Inc.,Real Estate/Construction,Real Estate Developers
+IONS,Ionis Pharmaceuticals Inc.,Health Care/Life Sciences,Pharmaceuticals
+IP,International Paper Co.,Basic Materials/Resources,Paper/Pulp
+IPG,Interpublic Group of Cos.,Business/Consumer Services,Advertising/Marketing/Public Relations
+IPGP,IPG Photonics Corp.,Industrial Goods,Precision Products
+IQV,IQVIA Holdings Inc.,Health Care/Life Sciences,Healthcare Provision
+IR,Ingersoll-Rand PLC,Real Estate/Construction,Building Materials/Products
+IRM,Iron Mountain Inc.,Real Estate/Construction,Specialty REITs
+ISRG,Intuitive Surgical Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+IT,Gartner Inc.,Business/Consumer Services,Advertising/Marketing/Public Relations
+ITT,ITT Inc.,Business/Consumer Services,Technical Services
+ITW,Illinois Tool Works Inc.,Industrial Goods,Industrial Machinery
+IVZ,INVESCO Ltd.,Financial Services,Investment Advisors
+J,Jacobs Engineering Group Inc.,Business/Consumer Services,Technical Services
+JAZZ,Jazz Pharmaceuticals PLC,Health Care/Life Sciences,Biotechnology
+JBGS,JBG SMITH Properties,Real Estate/Construction,Diversified REITs
+JBHT,J.B. Hunt Transport Services Inc.,Transportation/Logistics,Trucking
+JBL,Jabil Inc.,Business/Consumer Services,Technical Services
+JBLU,JetBlue Airways Corp.,Transportation/Logistics,Passenger Airlines
+JCI,Johnson Controls International PLC,Real Estate/Construction,Building Materials/Products
+JEF,Jefferies Financial Group Inc.,Financial Services,Investment Advisors
+JHG,Janus Henderson Group PLC,N/A,N/A
+JKHY,Jack Henry & Associates Inc.,Business/Consumer Services,Computer Services
+JLL,Jones Lang LaSalle Inc.,Real Estate/Construction,Real Estate Developers
+JNJ,Johnson & Johnson,Health Care/Life Sciences,Pharmaceuticals
+JNPR,Juniper Networks Inc.,Technology,Networking
+JPM,JPMorgan Chase & Co.,Financial Services,Major International Banks
+JW.A,John Wiley & Sons Inc. Cl A,Media/Entertainment,Publishing
+JWN,Nordstrom Inc.,Retail/Wholesale,Clothing Retail
+K,Kellogg Co.,Consumer Goods,Food Products
+KAR,KAR Auction Services Inc.,Retail/Wholesale,Mixed Retailing
+KDP,Keurig Dr Pepper Inc.,Consumer Goods,Non-Alcoholic Beverages/Drinks
+KEX,Kirby Corp.,Transportation/Logistics,Water Transport/Shipping
+KEY,KeyCorp,Financial Services,Banking
+KEYS,Keysight Technologies Inc.,Industrial Goods,Precision Products
+KHC,Kraft Heinz Co.,Consumer Goods,Food Products
+KIM,Kimco Realty Corp.,Real Estate/Construction,Retail REITs
+KLAC,KLA Corp.,Technology,Semiconductors
+KMB,Kimberly-Clark Corp.,Consumer Goods,Nondurable Household Products
+KMI,Kinder Morgan Inc.,Companies on the Energy Service,Pipeline Transportation
+KMPR,Kemper Corp.,Financial Services,Full-Line Insurance
+KMX,CarMax Inc.,Retail/Wholesale,Specialty Retail
+KNX,Knight-Swift Transportation Holdings Inc. Cl A,Transportation/Logistics,Trucking
+KO,Coca-Cola Co.,Consumer Goods,Non-Alcoholic Beverages/Drinks
+KOS,Kosmos Energy Ltd.,Companies on the Energy Service,Oil Extraction
+KR,Kroger Co.,Retail/Wholesale,Food Retail
+KRC,Kilroy Realty Corp.,Real Estate/Construction,Industrial/Office REITs
+KSS,Kohl's Corp.,Retail/Wholesale,Clothing Retail
+KSU,Kansas City Southern,Transportation/Logistics,Railroads
+L,Loews Corp.,Financial Services,Non-Life Insurance
+LAMR,Lamar Advertising Co. Cl A,Real Estate/Construction,Specialty REITs
+LAZ,Lazard Ltd.,Financial Services,Investment Advisors
+LB,L Brands Inc.,Retail/Wholesale,Clothing Retail
+LBRDA,Liberty Broadband Corp. Cl A,Media/Entertainment,Broadcasting
+LBRDK,Liberty Broadband Corp. Cl C,Media/Entertainment,Broadcasting
+LDOS,Leidos Holdings Inc.,Business/Consumer Services,Computer Services
+LEA,Lear Corp.,Automotive,Motor Vehicle Parts
+LECO,Lincoln Electric Holdings Inc.,Industrial Goods,Industrial Machinery
+LEG,Leggett & Platt Inc.,Consumer Goods,Furniture
+LEN,Lennar Corp. Cl A,Real Estate/Construction,Residential Building Construction
+LEN.B,Lennar Corp. Cl B,Real Estate/Construction,Residential Building Construction
+LFUS,Littelfuse Inc.,Industrial Goods,Industrial Electronics
+LGF.A,Lions Gate Entertainment Corp. Cl A,Media/Entertainment,Motion Picture/Sound Recording
+LGF.B,Lions Gate Entertainment Corp. Cl B,Media/Entertainment,Motion Picture/Sound Recording
+LH,Laboratory Corp. of America Holdings,Health Care/Life Sciences,Healthcare Provision
+LHX,L3Harris Technologies Inc.,Technology,Networking
+LII,Lennox International Inc.,Real Estate/Construction,Building Materials/Products
+LIN,Linde PLC,N/A,N/A
+LKQ,LKQ Corp.,Automotive,Motor Vehicle Parts
+LLY,Eli Lilly & Co.,Health Care/Life Sciences,Pharmaceuticals
+LM,Legg Mason Inc.,Financial Services,Investment Advisors
+LMT,Lockheed Martin Corp.,Industrial Goods,Defense Equipment/Products
+LNC,Lincoln National Corp.,Financial Services,Life Insurance
+LNG,Cheniere Energy Inc.,Companies on the Energy Service,Oil Extraction
+LNT,Alliant Energy Corp.,Companies on the Energy Service,Electric Utilities
+LOGM,LogMeIn Inc.,Technology,Software
+LOPE,Grand Canyon Education Inc.,Business/Consumer Services,Consumer Services
+LOW,Lowe's Cos.,Retail/Wholesale,Home Goods Retail
+LPLA,LPL Financial Holdings Inc.,Financial Services,Securities
+LRCX,Lam Research Corp.,Technology,Semiconductors
+LSI,Life Storage Inc.,Real Estate/Construction,Specialty REITs
+LSTR,Landstar System Inc.,Transportation/Logistics,Trucking
+LSXMA,Liberty Media Corp. Series A SiriusXM,N/A,N/A
+LSXMK,Liberty Media Corp. Series C SiriusXM,N/A,N/A
+LULU,lululemon athletica inc.,Consumer Goods,Clothing
+LUV,Southwest Airlines Co.,Transportation/Logistics,Passenger Airlines
+LVS,Las Vegas Sands Corp.,Leisure/Arts/Hospitality,Gambling Industries
+LW,Lamb Weston Holdings Inc.,Consumer Goods,Food Products
+LYB,LyondellBasell Industries N.V. Cl A,Basic Materials/Resources,Chemicals
+LYFT,Lyft Inc. Cl A,Technology,Emerging Technologies
+LYV,Live Nation Entertainment Inc.,Leisure/Arts/Hospitality,Recreational Services
+M,Macy's Inc.,Retail/Wholesale,Mixed Retailing
+MA,Mastercard Inc.,Financial Services,Consumer Finance
+MAA,Mid-America Apartment Communities Inc.,Real Estate/Construction,Residential REITs
+MAC,Macerich Co.,Real Estate/Construction,Retail REITs
+MAN,ManpowerGroup,Business/Consumer Services,Employment/Training Services
+MANH,Manhattan Associates Inc.,Technology,Software
+MAR,Marriott International Inc.,Leisure/Arts/Hospitality,Hotels
+MAS,Masco Corp.,Real Estate/Construction,Building Materials/Products
+MASI,Masimo Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+MAT,Mattel Inc.,Consumer Goods,Toys & Games
+MCD,McDonald's Corp.,Leisure/Arts/Hospitality,Restaurants
+MCHP,Microchip Technology Inc.,Technology,Semiconductors
+MCK,McKesson Corp.,Retail/Wholesale,Drug Retail
+MCO,Moody's Corp.,Financial Services,Finance Companies
+MCY,Mercury General Corp.,Financial Services,Non-Life Insurance
+MD,Mednax Inc.,Health Care/Life Sciences,Healthcare Provision
+MDB,MongoDB Inc.,Technology,Software
+MDLA,Medallia Inc.,Technology,Software
+MDLZ,Mondelez International Inc. Cl A,Consumer Goods,Food Products
+MDT,Medtronic PLC,Health Care/Life Sciences,Medical Equipment/Supplies
+MDU,MDU Resources Group Inc.,Real Estate/Construction,Construction
+MET,MetLife Inc.,Financial Services,Life Insurance
+MFA,MFA Financial Inc.,Real Estate/Construction,Mortgage REITs
+MGM,MGM Resorts International,Leisure/Arts/Hospitality,Gambling Industries
+MHK,Mohawk Industries Inc.,Real Estate/Construction,Building Materials/Products
+MIC,Macquarie Infrastructure Corp.,Transportation/Logistics,Transportation Services
+MIDD,Middleby Corp.,Consumer Goods,Housewares
+MKC,McCormick & Co. Inc.,Consumer Goods,Food Products
+MKL,Markel Corp.,Financial Services,Non-Life Insurance
+MKSI,MKS Instruments Inc.,Industrial Goods,Precision Products
+MKTX,MarketAxess Holdings Inc.,Financial Services,Securities
+MLM,Martin Marietta Materials Inc.,Real Estate/Construction,Building Materials/Products
+MMC,Marsh & McLennan Cos.,Financial Services,Insurance Brokering
+MMM,3M Co.,Business/Consumer Services,Diversified Holding Companies
+MNST,Monster Beverage Corp.,Consumer Goods,Non-Alcoholic Beverages/Drinks
+MO,Altria Group Inc.,Consumer Goods,Tobacco
+MOH,Molina Healthcare Inc.,Financial Services,Life Insurance
+MORN,Morningstar Inc.,Media/Entertainment,Publishing
+MOS,Mosaic Co.,Basic Materials/Resources,Chemicals
+MPC,Marathon Petroleum Corp.,Companies on the Energy Service,Oil & Gas Products/Services
+MPW,Medical Properties Trust Inc.,Real Estate/Construction,Healthcare REITs
+MPWR,Monolithic Power Systems Inc.,Technology,Semiconductors
+MRK,Merck & Co. Inc.,Health Care/Life Sciences,Pharmaceuticals
+MRNA,Moderna Inc.,N/A,N/A
+MRO,Marathon Oil Corp.,Companies on the Energy Service,Major Oil & Gas
+MRVL,Marvell Technology Group Ltd.,Technology,Semiconductors
+MS,Morgan Stanley,Financial Services,Securities
+MSCI,MSCI Inc.,Financial Services,Investment Advisors
+MSFT,Microsoft Corp.,Technology,Software
+MSG,Madison Square Garden Co. (New),N/A,N/A
+MSI,Motorola Solutions Inc.,Technology,Networking
+MSM,MSC Industrial Direct Co.,Retail/Wholesale,Wholesalers
+MTB,M&T Bank Corp.,Financial Services,Banking
+MTCH,Match Group Inc.,Business/Consumer Services,Consumer Services
+MTD,Mettler-Toledo International Inc.,Industrial Goods,Precision Products
+MTG,MGIC Investment Corp.,Financial Services,Mortgages
+MTN,Vail Resorts Inc.,Leisure/Arts/Hospitality,Hotels
+MU,Micron Technology Inc.,Technology,Semiconductors
+MUR,Murphy Oil Corp.,Companies on the Energy Service,Major Oil & Gas
+MXIM,Maxim Integrated Products Inc.,Technology,Semiconductors
+MYL,Mylan N.V.,Health Care/Life Sciences,Pharmaceuticals
+NATI,National Instruments Corp.,Industrial Goods,Precision Products
+NAVI,Navient Corp.,Financial Services,Consumer Finance
+NBIX,Neurocrine Biosciences Inc.,Health Care/Life Sciences,Biotechnology
+NBL,Noble Energy Inc.,Companies on the Energy Service,Oil Extraction
+NCLH,Norwegian Cruise Line Holdings Ltd.,Leisure/Arts/Hospitality,Tourism
+NCR,NCR Corp.,Technology,Computers/Consumer Electronics
+NDAQ,Nasdaq Inc.,Financial Services,Securities
+NDSN,Nordson Corp.,Industrial Goods,Industrial Products
+NEE,NextEra Energy Inc.,Companies on the Energy Service,Electric Utilities
+NEM,Newmont Corp.,Basic Materials/Resources,Gold
+NEU,NewMarket Corp.,Basic Materials/Resources,Chemicals
+NEWR,New Relic Inc.,Technology,Software
+NFG,National Fuel Gas Co.,Companies on the Energy Service,Gas Utilities
+NFLX,Netflix Inc.,Media/Entertainment,Broadcasting
+NI,NiSource Inc.,Companies on the Energy Service,Gas Utilities
+NKE,Nike Inc. Cl B,Consumer Goods,Footwear
+NKTR,Nektar Therapeutics,Health Care/Life Sciences,Biotechnology
+NLOK,NortonLifeLock Inc.,Technology,Software
+NLSN,Nielsen Holdings PLC,Business/Consumer Services,Advertising/Marketing/Public Relations
+NLY,Annaly Capital Management Inc.,Real Estate/Construction,Mortgage REITs
+NNN,National Retail Properties Inc.,Real Estate/Construction,Retail REITs
+NOC,Northrop Grumman Corp.,Industrial Goods,Defense Equipment/Products
+NOV,National Oilwell Varco Inc.,Companies on the Energy Service,Oil & Gas Products/Services
+NOW,ServiceNow Inc.,Technology,Software
+NRG,NRG Energy Inc.,Companies on the Energy Service,Multiutilities
+NRZ,New Residential Investment Corp.,Real Estate/Construction,Mortgage REITs
+NSC,Norfolk Southern Corp.,Transportation/Logistics,Railroads
+NTAP,NetApp Inc.,Technology,Computers/Consumer Electronics
+NTNX,Nutanix Inc. Cl A,Technology,Software
+NTRS,Northern Trust Corp.,Financial Services,Investment Advisors
+NUAN,Nuance Communications Inc.,Technology,Software
+NUE,Nucor Corp.,Basic Materials/Resources,Iron/Steel
+NUS,Nu Skin Enterprises Inc. Cl A,Consumer Goods,Personal Care Products/Appliances
+NVDA,NVIDIA Corp.,Technology,Semiconductors
+NVR,NVR Inc.,Real Estate/Construction,Residential Building Construction
+NVST,Envista Holdings Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+NVT,nVent Electric PLC,Industrial Goods,Precision Products
+NWL,Newell Brands Inc.,Consumer Goods,Housewares
+NWS,News Corp Cl B,Media/Entertainment,Publishing
+NWSA,News Corp Cl A,Media/Entertainment,Publishing
+NXST,Nexstar Media Group Inc. Cl A,Media/Entertainment,Broadcasting
+NYCB,New York Community Bancorp Inc.,Financial Services,Banking
+NYT,New York Times Co. Cl A,Media/Entertainment,Publishing
+O,Realty Income Corp.,Real Estate/Construction,Retail REITs
+OC,Owens Corning,Real Estate/Construction,Building Materials/Products
+ODFL,Old Dominion Freight Line Inc.,Transportation/Logistics,Trucking
+OFC,Corporate Office Properties Trust,Real Estate/Construction,Industrial/Office REITs
+OGE,OGE Energy Corp.,Companies on the Energy Service,Electric Utilities
+OHI,Omega Healthcare Investors Inc.,Real Estate/Construction,Healthcare REITs
+OI,O-I Glass Inc.,Industrial Goods,Containers/Packaging
+OKE,ONEOK Inc.,Companies on the Energy Service,Gas Utilities
+OKTA,Okta Inc. Cl A,Technology,Internet/Online
+OLED,Universal Display Corp.,Consumer Goods,Audio/Video Equipment
+OLLI,Ollie's Bargain Outlet Holdings Inc.,Retail/Wholesale,Mixed Retailing
+OLN,Olin Corp.,Basic Materials/Resources,Chemicals
+OMC,Omnicom Group Inc.,Business/Consumer Services,Advertising/Marketing/Public Relations
+OMF,OneMain Holdings Inc.,Financial Services,Consumer Finance
+ON,ON Semiconductor Corp.,Technology,Semiconductors
+ORCL,Oracle Corp.,Technology,Software
+ORI,Old Republic International Corp.,Financial Services,Non-Life Insurance
+ORLY,O'Reilly Automotive Inc.,Retail/Wholesale,Specialty Retail
+OSK,Oshkosh Corp.,Automotive,Commercial Vehicles
+OUT,Outfront Media Inc.,Business/Consumer Services,Advertising/Marketing/Public Relations
+OXY,Occidental Petroleum Corp.,Companies on the Energy Service,Oil Extraction
+OZK,Bank OZK,Financial Services,Banking
+PACW,PacWest Bancorp,Financial Services,Banking
+PAG,Penske Automotive Group Inc.,Retail/Wholesale,Specialty Retail
+PANW,Palo Alto Networks Inc.,Technology,Software
+PAYC,Paycom Software Inc.,Technology,Internet/Online
+PAYX,Paychex Inc.,Business/Consumer Services,Accounting
+PB,Prosperity Bancshares Inc.,Financial Services,Banking
+PBCT,People's United Financial Inc.,Financial Services,Banking
+PBF,PBF Energy Inc.,Companies on the Energy Service,Oil & Gas Products/Services
+PCAR,Paccar Inc.,Automotive,Commercial Vehicles
+PCG,PG&E Corp.,Companies on the Energy Service,Electric Utilities
+PCTY,Paylocity Holding Corp.,Technology,Internet/Online
+PD,PagerDuty Inc.,Technology,Internet/Online
+PE,Parsley Energy Inc. Cl A,Companies on the Energy Service,Oil Extraction
+PEAK,Healthpeak Properties Inc.,Real Estate/Construction,Healthcare REITs
+PEG,Public Service Enterprise Group Inc.,Companies on the Energy Service,Multiutilities
+PEGA,Pegasystems Inc.,Technology,Software
+PEN,Penumbra Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+PEP,PepsiCo Inc.,Consumer Goods,Non-Alcoholic Beverages/Drinks
+PFE,Pfizer Inc.,Health Care/Life Sciences,Pharmaceuticals
+PFG,Principal Financial Group Inc.,Financial Services,Life Insurance
+PFPT,Proofpoint Inc.,Technology,Software
+PG,Procter & Gamble Co.,Consumer Goods,Personal Care Products/Appliances
+PGR,Progressive Corp.,Financial Services,Non-Life Insurance
+PGRE,Paramount Group Inc.,Real Estate/Construction,Industrial/Office REITs
+PH,Parker Hannifin Corp.,Industrial Goods,Industrial Machinery
+PHM,PulteGroup Inc.,Real Estate/Construction,Residential Building Construction
+PII,Polaris Inc.,Automotive,Automobiles
+PINC,Premier Inc.,Health Care/Life Sciences,Healthcare Provision
+PK,Park Hotels & Resorts Inc.,Leisure/Arts/Hospitality,Hotels
+PKG,Packaging Corp. of America,Industrial Goods,Containers/Packaging
+PKI,PerkinElmer Inc.,Industrial Goods,Precision Products
+PLAN,Anaplan Inc.,Technology,Internet/Online
+PLD,Prologis Inc.,Real Estate/Construction,Industrial/Office REITs
+PLNT,Planet Fitness Inc. Cl A,Leisure/Arts/Hospitality,Recreational Services
+PM,Philip Morris International Inc.,Consumer Goods,Tobacco
+PNC,PNC Financial Services Group Inc.,Financial Services,Banking
+PNFP,Pinnacle Financial Partners Inc.,Financial Services,Banking
+PNR,Pentair PLC,Industrial Goods,Industrial Machinery
+PNW,Pinnacle West Capital Corp.,Companies on the Energy Service,Electric Utilities
+PODD,Insulet Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+POOL,Pool Corp.,Consumer Goods,Sports Goods
+POST,Post Holdings Inc.,Consumer Goods,Food Products
+PPC,Pilgrim's Pride Corp.,Consumer Goods,Food Products
+PPG,PPG Industries Inc.,Real Estate/Construction,Building Materials/Products
+PPL,PPL Corp.,Companies on the Energy Service,Electric Utilities
+PRAH,PRA Health Sciences Inc.,Health Care/Life Sciences,Healthcare Provision
+PRGO,Perrigo Co. PLC,Health Care/Life Sciences,Pharmaceuticals
+PRI,Primerica Inc.,Financial Services,Life Insurance
+PRU,Prudential Financial Inc.,Financial Services,Life Insurance
+PS,Pluralsight Inc. Cl A,Technology,Software
+PSA,Public Storage,Real Estate/Construction,Specialty REITs
+PSTG,Pure Storage Inc. Cl A,Technology,Computers/Consumer Electronics
+PSX,Phillips 66,Companies on the Energy Service,Pipeline Transportation
+PTC,PTC Inc.,Technology,Software
+PTEN,Patterson-UTI Energy Inc.,Companies on the Energy Service,Oil & Gas Products/Services
+PVH,PVH Corp.,Consumer Goods,Clothing
+PWR,Quanta Services Inc.,Real Estate/Construction,Construction
+PXD,Pioneer Natural Resources Co.,Companies on the Energy Service,Oil Extraction
+PYPL,PayPal Holdings Inc.,Financial Services,Consumer Finance
+QCOM,Qualcomm Inc.,Technology,Semiconductors
+QGEN,Qiagen N.V.,Health Care/Life Sciences,Biotechnology
+QRTEA,Qurate Retail Inc. Series A,Media/Entertainment,Broadcasting
+QRVO,Qorvo Inc.,Technology,Semiconductors
+R,Ryder System Inc.,Business/Consumer Services,General Services
+RBC,Regal Beloit Corp.,Industrial Goods,Industrial Electronics
+RCL,Royal Caribbean Cruises Ltd.,Leisure/Arts/Hospitality,Tourism
+RE,Everest Re Group Ltd.,Financial Services,Reinsurance
+REG,Regency Centers Corp.,Real Estate/Construction,Retail REITs
+REGN,Regeneron Pharmaceuticals Inc.,Health Care/Life Sciences,Biotechnology
+REZI,Resideo Technologies Inc.,Technology,Networking
+RF,Regions Financial Corp.,Financial Services,Banking
+RGA,Reinsurance Group of America Inc.,Financial Services,Reinsurance
+RGLD,Royal Gold Inc.,Basic Materials/Resources,Gold
+RHI,Robert Half International Inc.,Business/Consumer Services,Employment/Training Services
+RIG,Transocean Ltd.,Companies on the Energy Service,Oil & Gas Products/Services
+RJF,Raymond James Financial Inc.,Financial Services,Investment Advisors
+RL,Ralph Lauren Corp. Cl A,Consumer Goods,Clothing
+RMD,ResMed Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+RNG,RingCentral Inc. Cl A,Technology,Internet/Online
+RNR,RenaissanceRe Holdings Ltd.,Financial Services,Reinsurance
+ROK,Rockwell Automation Corp.,Industrial Goods,Precision Products
+ROKU,Roku Inc. Cl A,Consumer Goods,Audio/Video Equipment
+ROL,Rollins Inc.,Business/Consumer Services,General Services
+ROP,Roper Technologies Inc.,Industrial Goods,Precision Products
+ROST,Ross Stores Inc.,Retail/Wholesale,Clothing Retail
+RP,RealPage Inc.,Technology,Software
+RPAI,Retail Properties of America Inc.,Real Estate/Construction,Retail REITs
+RPM,RPM International Inc.,Real Estate/Construction,Building Materials/Products
+RRC,Range Resources Corp.,Companies on the Energy Service,Oil Extraction
+RS,Reliance Steel & Aluminum Co.,Basic Materials/Resources,Iron/Steel
+RSG,Republic Services Inc.,Business/Consumer Services,Environment/Waste Management
+RTN,Raytheon Co.,Industrial Goods,Defense Equipment/Products
+RYN,Rayonier Inc.,Real Estate/Construction,Specialty REITs
+S,Sprint Corp.,Telecommunication Services,Wireless Telecommunications Services
+SABR,Sabre Corp.,Technology,Software
+SAGE,Sage Therapeutics Inc.,Health Care/Life Sciences,Pharmaceuticals
+SATS,EchoStar Corp.,Consumer Goods,Audio/Video Equipment
+SBAC,SBA Communications Corp.,Real Estate/Construction,Specialty REITs
+SBGI,Sinclair Broadcast Group Inc. Cl A,Media/Entertainment,Broadcasting
+SBNY,Signature Bank,Financial Services,Banking
+SBUX,Starbucks Corp.,Leisure/Arts/Hospitality,Restaurants
+SC,Santander Consumer USA Holdings Inc.,Financial Services,Consumer Finance
+SCCO,Southern Copper Corp.,Basic Materials/Resources,Non-Ferrous Metals
+SCHW,Charles Schwab Corp.,Financial Services,Securities
+SCI,Service Corp. International,Business/Consumer Services,Consumer Services
+SEB,Seaboard Corp.,Consumer Goods,Food Products
+SEE,Sealed Air Corp.,Industrial Goods,Containers/Packaging
+SEIC,SEI Investments Co.,Financial Services,Investment Advisors
+SERV,ServiceMaster Global Holdings Inc.,Business/Consumer Services,General Services
+SFM,Sprouts Farmers Market Inc.,Retail/Wholesale,Food Retail
+SGEN,Seattle Genetics Inc.,Health Care/Life Sciences,Biotechnology
+SHW,Sherwin-Williams Co.,Retail/Wholesale,Home Goods Retail
+SIRI,Sirius XM Holdings Inc.,Media/Entertainment,Broadcasting
+SITC,SITE Centers Corp.,Real Estate/Construction,Retail REITs
+SIVB,SVB Financial Group,Financial Services,Banking
+SIX,Six Flags Entertainment Corp.,Leisure/Arts/Hospitality,Recreational Services
+SJM,J.M. Smucker Co.,Consumer Goods,Food Products
+SKX,Skechers USA Inc. Cl A,Consumer Goods,Footwear
+SLB,Schlumberger Ltd.,Companies on the Energy Service,Oil & Gas Products/Services
+SLG,SL Green Realty Corp.,Real Estate/Construction,Industrial/Office REITs
+SLGN,Silgan Holdings Inc.,Industrial Goods,Containers/Packaging
+SLM,SLM Corp.,Financial Services,Consumer Finance
+SMAR,Smartsheet Inc.,Technology,Internet/Online
+SMG,Scotts Miracle-Gro Co.,Basic Materials/Resources,Chemicals
+SNA,Snap-On Inc.,Consumer Goods,Housewares
+SNDR,Schneider National Inc. Cl B,Transportation/Logistics,Trucking
+SNPS,Synopsys Inc.,Technology,Software
+SNV,Synovus Financial Corp.,Financial Services,Banking
+SNX,SYNNEX Corp.,Technology,Computers/Consumer Electronics
+SO,Southern Co.,Companies on the Energy Service,Electric Utilities
+SON,Sonoco Products Co.,Industrial Goods,Containers/Packaging
+SPB,Spectrum Brands Holdings Inc.,Business/Consumer Services,Diversified Holding Companies
+SPG,Simon Property Group Inc.,Real Estate/Construction,Retail REITs
+SPGI,S&P Global Inc.,Financial Services,Investment Advisors
+SPLK,Splunk Inc.,Technology,Software
+SPOT,Spotify Technology S.A.,N/A,N/A
+SPR,Spirit AeroSystems Holdings Inc. Cl A,Industrial Goods,Aerospace Products/Parts
+SQ,Square Inc. Cl A,Technology,Computers/Consumer Electronics
+SRC,Spirit Realty Capital Inc.,Real Estate/Construction,Retail REITs
+SRCL,Stericycle Inc.,Business/Consumer Services,Environment/Waste Management
+SRE,Sempra Energy,Companies on the Energy Service,Multiutilities
+SRPT,Sarepta Therapeutics Inc.,Health Care/Life Sciences,Biotechnology
+SSNC,SS&C Technologies Holdings Inc.,Technology,Software
+ST,Sensata Technologies Holding PLC,Industrial Goods,Precision Products
+STAY,Extended Stay America Inc.,Leisure/Arts/Hospitality,Hotels
+STE,Steris PLC,Health Care/Life Sciences,Medical Equipment/Supplies
+STL,Sterling Bancorp,Financial Services,Banking
+STLD,Steel Dynamics Inc.,Basic Materials/Resources,Iron/Steel
+STOR,STORE Capital Corp.,Real Estate/Construction,Retail REITs
+STT,State Street Corp.,Financial Services,Investment Advisors
+STWD,Starwood Property Trust Inc.,Real Estate/Construction,Mortgage REITs
+STZ,Constellation Brands Inc. Cl A,Consumer Goods,Alcoholic Beverages/Drinks
+SUI,Sun Communities Inc.,Real Estate/Construction,Residential REITs
+SVC,Service Properties Trust,Real Estate/Construction,Hotel/Lodging REITs
+SWCH,Switch Inc. Cl A,Business/Consumer Services,Computer Services
+SWI,SolarWinds Corp.,Technology,Software
+SWK,Stanley Black & Decker Inc.,Consumer Goods,Housewares
+SWKS,Skyworks Solutions Inc.,Technology,Semiconductors
+SYF,Synchrony Financial,Financial Services,Consumer Finance
+SYK,Stryker Corp.,Health Care/Life Sciences,Medical Equipment/Supplies
+SYY,Sysco Corp.,Retail/Wholesale,Food Retail
+T,AT&T Inc.,Telecommunication Services,Wireless Telecommunications Services
+TAP,Molson Coors Beverage Co. Cl B,Consumer Goods,Alcoholic Beverages/Drinks
+TCBI,Texas Capital Bancshares Inc.,Financial Services,Banking
+TCF,TCF Financial Corp.,Financial Services,Banking
+TCO,Taubman Centers Inc.,Real Estate/Construction,Retail REITs
+TDC,Teradata Corp.,Technology,Software
+TDG,TransDigm Group Inc.,Industrial Goods,Aerospace Products/Parts
+TDS,Telephone & Data Systems Inc.,Telecommunication Services,Wireless Telecommunications Services
+TDY,Teledyne Technologies Inc.,Industrial Goods,Precision Products
+TEAM,Atlassian Corp. PLC Cl A,N/A,N/A
+TECH,Bio-Techne Corp.,Health Care/Life Sciences,Biotechnology
+TER,Teradyne Inc.,Industrial Goods,Precision Products
+TFC,Truist Financial Corp.,Financial Services,Banking
+TFSL,TFS Financial Corp.,Financial Services,Banking
+TFX,Teleflex Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+TGT,Target Corp.,Retail/Wholesale,Mixed Retailing
+THG,Hanover Insurance Group Inc.,Financial Services,Non-Life Insurance
+THO,Thor Industries Inc.,Automotive,Automobiles
+THS,TreeHouse Foods Inc.,Consumer Goods,Food Products
+TIF,Tiffany & Co.,Retail/Wholesale,Clothing Retail
+TJX,TJX Cos.,Retail/Wholesale,Clothing Retail
+TKR,Timken Co.,Industrial Goods,Industrial Machinery
+TMO,Thermo Fisher Scientific Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+TMUS,T-Mobile US Inc.,Telecommunication Services,Wireless Telecommunications Services
+TOL,Toll Brothers Inc.,Real Estate/Construction,Residential Building Construction
+TPR,Tapestry Inc.,Consumer Goods,Clothing
+TPX,Tempur Sealy International Inc.,Consumer Goods,Furniture
+TREE,LendingTree Inc.,Financial Services,Mortgages
+TRGP,Targa Resources Corp.,Companies on the Energy Service,Pipeline Transportation
+TRIP,TripAdvisor Inc.,Leisure/Arts/Hospitality,Tourism
+TRMB,Trimble Inc.,Industrial Goods,Precision Products
+TRN,Trinity Industries Inc.,Transportation/Logistics,Railroads
+TROW,T. Rowe Price Group Inc.,Financial Services,Investment Advisors
+TRU,TransUnion,Financial Services,Finance Companies
+TRV,Travelers Cos. Inc.,Financial Services,Non-Life Insurance
+TSCO,Tractor Supply Co.,Retail/Wholesale,Specialty Retail
+TSLA,Tesla Inc.,Automotive,Automobiles
+TSN,Tyson Foods Inc. Cl A,Consumer Goods,Food Products
+TTC,Toro Co.,Industrial Goods,Mobile Machinery
+TTD,Trade Desk Inc. Cl A,Business/Consumer Services,Advertising/Marketing/Public Relations
+TTWO,Take-Two Interactive Software Inc.,Consumer Goods,Toys & Games
+TWLO,Twilio Inc. Cl A,Technology,Software
+TWO,Two Harbors Investment Corp.,Real Estate/Construction,Mortgage REITs
+TWOU,2U Inc.,Technology,Software
+TWTR,Twitter Inc.,Technology,Internet/Online
+TXN,Texas Instruments Inc.,Technology,Semiconductors
+TXT,Textron Inc.,Industrial Goods,Aerospace Products/Parts
+TYL,Tyler Technologies Inc.,Technology,Software
+UA,Under Armour Inc. Cl C,Consumer Goods,Clothing
+UAA,Under Armour Inc. Cl A,Consumer Goods,Clothing
+UAL,United Airlines Holdings Inc.,Transportation/Logistics,Passenger Airlines
+UBER,Uber Technologies Inc.,Technology,Emerging Technologies
+UDR,UDR Inc.,Real Estate/Construction,Residential REITs
+UFS,Domtar Corp.,Basic Materials/Resources,Paper/Pulp
+UGI,UGI Corp.,Companies on the Energy Service,Gas Utilities
+UHAL,Amerco,Business/Consumer Services,General Services
+UHS,Universal Health Services Inc. Cl B,Health Care/Life Sciences,Healthcare Provision
+UI,Ubiquiti Inc.,Technology,Networking
+ULTA,Ulta Beauty Inc.,Retail/Wholesale,Specialty Retail
+UMPQ,Umpqua Holdings Corp.,Financial Services,Banking
+UNH,UnitedHealth Group Inc.,Financial Services,Life Insurance
+UNM,Unum Group,Financial Services,Life Insurance
+UNP,Union Pacific Corp.,Transportation/Logistics,Railroads
+UNVR,Univar Solutions Inc.,Retail/Wholesale,Wholesalers
+UPS,United Parcel Service Inc. Cl B,Transportation/Logistics,Air Freight
+URBN,Urban Outfitters Inc.,Retail/Wholesale,Clothing Retail
+URI,United Rentals Inc.,Business/Consumer Services,General Services
+USB,U.S. Bancorp,Financial Services,Banking
+USFD,US Foods Holding Corp.,Retail/Wholesale,Food Retail
+USM,U.S. Cellular Corp.,Telecommunication Services,Wireless Telecommunications Services
+UTHR,United Therapeutics Corp.,Health Care/Life Sciences,Biotechnology
+UTX,United Technologies Corp.,Industrial Goods,Aerospace Products/Parts
+V,Visa Inc. Cl A,Financial Services,Consumer Finance
+VAR,Varian Medical Systems Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+VEEV,Veeva Systems Inc. Cl A,Technology,Software
+VER,VEREIT Inc.,Real Estate/Construction,Diversified REITs
+VFC,VF Corp.,Consumer Goods,Clothing
+VIAC,ViacomCBS Inc. Cl B,Media/Entertainment,Broadcasting
+VIACA,ViacomCBS Inc. Cl A,Media/Entertainment,Broadcasting
+VICI,VICI Properties Inc.,Real Estate/Construction,Real Estate Developers
+VIRT,Virtu Financial Inc.,Financial Services,Securities
+VLO,Valero Energy Corp.,Companies on the Energy Service,Oil & Gas Products/Services
+VMC,Vulcan Materials Co.,Real Estate/Construction,Building Materials/Products
+VMI,Valmont Industries Inc.,Real Estate/Construction,Building Materials/Products
+VMW,VMware Inc.,Technology,Software
+VNO,Vornado Realty Trust,Real Estate/Construction,Diversified REITs
+VOYA,Voya Financial Inc.,Financial Services,Investment Advisors
+VRSK,Verisk Analytics Inc.,Business/Consumer Services,Computer Services
+VRSN,VeriSign Inc.,Technology,Internet/Online
+VRTX,Vertex Pharmaceuticals Inc.,Health Care/Life Sciences,Pharmaceuticals
+VSAT,ViaSat Inc.,Telecommunication Services,Wireless Telecommunications Services
+VST,Vistra Energy Corp.,Companies on the Energy Service,Electric Utilities
+VTR,Ventas Inc.,Real Estate/Construction,Healthcare REITs
+VVV,Valvoline Inc.,Basic Materials/Resources,Chemicals
+VZ,Verizon Communications Inc.,Telecommunication Services,Wireless Telecommunications Services
+W,Wayfair Inc. Cl A,Retail/Wholesale,Home Goods Retail
+WAB,Wabtec,Transportation/Logistics,Railroads
+WAL,Western Alliance Bancorp.,Financial Services,Banking
+WAT,Waters Corp.,Industrial Goods,Precision Products
+WBA,Walgreens Boots Alliance Inc.,Retail/Wholesale,Drug Retail
+WBC,WABCO Holdings Inc.,Automotive,Motor Vehicle Parts
+WBS,Webster Financial Corp.,Financial Services,Banking
+WCC,Wesco International Inc.,Industrial Goods,Industrial Electronics
+WDAY,Workday Inc. Cl A,Technology,Software
+WDC,Western Digital Corp.,Technology,Computers/Consumer Electronics
+WEC,WEC Energy Group Inc.,Companies on the Energy Service,Multiutilities
+WELL,Welltower Inc.,Real Estate/Construction,Healthcare REITs
+WEN,Wendy's Co.,Leisure/Arts/Hospitality,Restaurants
+WEX,WEX Inc.,Financial Services,Consumer Finance
+WFC,Wells Fargo & Co.,Financial Services,Banking
+WH,Wyndham Hotels & Resorts Inc.,Leisure/Arts/Hospitality,Hotels
+WHR,Whirlpool Corp.,Consumer Goods,Housewares
+WLK,Westlake Chemical Corp.,Basic Materials/Resources,Chemicals
+WLTW,Willis Towers Watson PLC,Financial Services,Insurance Brokering
+WM,Waste Management Inc.,Business/Consumer Services,Environment/Waste Management
+WMB,Williams Cos.,Companies on the Energy Service,Pipeline Transportation
+WMT,Walmart Inc.,Retail/Wholesale,Mixed Retailing
+WPC,W. P. Carey Inc.,Real Estate/Construction,Industrial/Office REITs
+WPX,WPX Energy Inc.,Companies on the Energy Service,Oil Extraction
+WRB,W.R. Berkley Corp.,Financial Services,Non-Life Insurance
+WRI,Weingarten Realty Investors,Real Estate/Construction,Retail REITs
+WRK,WestRock Co.,Industrial Goods,Containers/Packaging
+WSM,Williams-Sonoma Inc.,Retail/Wholesale,Home Goods Retail
+WSO,Watsco Inc.,Real Estate/Construction,Building Materials/Products
+WST,West Pharmaceutical Services Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+WTFC,Wintrust Financial Corp.,Financial Services,Banking
+WTM,White Mountains Insurance Group Ltd.,Financial Services,Non-Life Insurance
+WU,Western Union Co.,Financial Services,Banking
+WWD,Woodward Inc.,Industrial Goods,Aerospace Products/Parts
+WWE,World Wrestling Entertainment Inc. Cl A,Leisure/Arts/Hospitality,Recreational Services
+WY,Weyerhaeuser Co.,Real Estate/Construction,Specialty REITs
+WYND,Wyndham Destinations Inc.,Leisure/Arts/Hospitality,Hotels
+WYNN,Wynn Resorts Ltd.,Leisure/Arts/Hospitality,Gambling Industries
+X,United States Steel Corp.,Basic Materials/Resources,Iron/Steel
+XEC,Cimarex Energy Co.,Companies on the Energy Service,Oil Extraction
+XEL,Xcel Energy Inc.,Companies on the Energy Service,Electric Utilities
+XLNX,Xilinx Inc.,Technology,Semiconductors
+XOM,Exxon Mobil Corp.,Companies on the Energy Service,Major Oil & Gas
+XPO,XPO Logistics Inc.,Transportation/Logistics,Transportation Services
+XRAY,Dentsply Sirona Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+XRX,Xerox Holdings Corp.,Technology,Computers/Consumer Electronics
+XYL,Xylem Inc.,Industrial Goods,Industrial Machinery
+Y,Alleghany Corp.,Financial Services,Non-Life Insurance
+YUM,Yum! Brands Inc.,Leisure/Arts/Hospitality,Restaurants
+YUMC,Yum China Holdings Inc.,Leisure/Arts/Hospitality,Restaurants
+Z,Zillow Group Inc. Cl C,Real Estate/Construction,Real Estate Developers
+ZAYO,Zayo Group Holdings Inc.,Technology,Networking
+ZBH,Zimmer Biomet Holdings Inc.,Health Care/Life Sciences,Medical Equipment/Supplies
+ZBRA,Zebra Technologies Corp. Cl A,Industrial Goods,Industrial Electronics
+ZEN,Zendesk Inc.,Technology,Software
+ZG,Zillow Group Inc. Cl A,Real Estate/Construction,Real Estate Developers
+ZION,Zions Bancorp N.A.,Financial Services,Banking
+ZNGA,Zynga Inc. Cl A,Consumer Goods,Toys & Games
+ZS,Zscaler Inc.,Technology,Internet/Online
+ZTS,Zoetis Inc.,Health Care/Life Sciences,Pharmaceuticals
